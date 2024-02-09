@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sameeh-hussein?tab=repositories](https://github.com/Sameeh-hussein?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Sameeh-hussein?tab=repositories)
 
 - 📫 How to reach me **sameehhussein02@gmail.com**
 
