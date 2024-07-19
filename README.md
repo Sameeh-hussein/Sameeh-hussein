@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameeh Hussein</h1>
-<h3 align="center">4th year CSE student</h3>
+<h3 align="center">Computer Systems Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeh-hussein&label=Profile%20views&color=0e75b6&style=flat" alt="sameeh-hussein" /> </p>
 
