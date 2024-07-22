@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeh-hussein&label=Profile%20views&color=0e75b6&style=flat" alt="sameeh-hussein" /> </p>
 
-- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Sameeh-hussein?tab=repositories)
 
