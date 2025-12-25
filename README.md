@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sameehhussein02@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1XhOx9nDek3n3YRidKQCENi9RexDKWGDH/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1-4lGF5CqS4v3dN4F-d5YWOHbx6TtuO9Z/view?usp=drive_link)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
